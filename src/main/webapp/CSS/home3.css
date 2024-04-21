@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+.where {
+    padding-left: 10%;
+    display: inline-flex;
+    margin: 10px 0px;
+    color: black;
+}
+
+.where p {
+
+    color: gray;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.content-box {
+
+    font-size: 19px;
+    line-height: 40px;
+    text-align: justify;
+    margin-right: 8%;
+    margin-left: 8%;
+}
+
+.content-box2 {
+	 font-size: 19px;
+    line-height: 40px;
+    text-align: justify;
+    margin-right: 8%;
+    margin-left: 8%;
+    padding : 16px;
+}
+
+.content-box p {
+    text-align: center;
+    line-height: 30px;
+    font-size: 15px;
+    font-style: italic;
+
+}
+
+.content-box img {
+    width: 300px;
+    height: auto;
+}
+
+.content {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+	text-align: center;
+	font-size: 25px;
+	margin: 20px 0px;
+
+}
